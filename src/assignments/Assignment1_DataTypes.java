@@ -16,7 +16,7 @@ public class Assignment1_DataTypes {
 		System.out.println("The order is not placed " + Ordertwo);
 
 		// Person's phone number:
-		String Phonenumber = "123-456-7890";
+		long Phonenumber = 123 - 456 - 7890;
 		System.out.println("The person phone number is " + Phonenumber);
 
 		// Amount of money in a customer's bank account: 1000.50
